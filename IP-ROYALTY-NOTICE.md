@@ -23,5 +23,6 @@ Esta declaração reserva direitos de royalties para usos comerciais da teoria q
 Esta declaração é parte do repositório público e vinculada a commit e tag específicos para garantir rastreabilidade e integridade.
 
 ## Contato
-Para licenciamento comercial e dúvidas, utilize o canal de Issues do repositório GitHub.
-
+Para licenciamento comercial e dúvidas:
+- E-mail: marcelongvargas@gmail.com
+- Canal: Issues do repositório GitHub

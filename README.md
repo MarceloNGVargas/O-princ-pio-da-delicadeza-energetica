@@ -43,6 +43,7 @@ Este repositório organiza a teoria, artigos e materiais de apoio do princípio 
 - Código: MIT License (ver LICENSE-MIT)
 - Textos e imagens: CC-BY 4.0 (ver LICENSE-CC-BY-4.0)
 - Aviso de royalties e autoria: [IP-ROYALTY-NOTICE.md](IP-ROYALTY-NOTICE.md)
+- Licença Comercial (termos e percentuais): [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md)
 
 ## Citação
 - Consulte CITATION.cff para citar este trabalho em gerenciadores de referência.
