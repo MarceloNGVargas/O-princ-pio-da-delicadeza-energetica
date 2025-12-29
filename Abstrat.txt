@@ -1,0 +1,7 @@
+# Abstract
+
+Este trabalho apresenta o **Princípio da Resolução por Energia Mínima**, proposto por Marcelo Vargas, que sugere uma inversão de paradigma na física experimental: o acesso ao nível sub-quântico estrutural não requer energias colossais, mas sim condições de energia mínima. A hipótese central é que a sobreposição quântica não representa múltiplos estados coexistindo, mas sim a limitação de nossa capacidade de observar o infinitamente pequeno. 
+
+A fórmula desenvolvida estabelece que a resolução espacial mínima (δx_min) é otimizada pela redução da energia por probe (ε) e da temperatura (T), enquanto aumenta a coerência temporal (τ) e o número de probes coerentes (N). Este princípio conecta o micro ao macro, oferecendo uma possível explicação para fenômenos como energia escura e energia exótica, vistos como manifestações de uma camada estrutural ainda não acessível.
+
+O objetivo é abrir caminho para uma nova física experimental baseada em **precisão e sutileza**, em vez de força bruta, e estimular futuras investigações que possam validar este princípio em regimes de ultra-baixa energia e temperatura.

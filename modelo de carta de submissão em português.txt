@@ -1,0 +1,14 @@
+Prezados Editores,
+
+Tenho a satisfação de submeter o manuscrito intitulado *“Do Macro ao Micro: O Princípio da Delicadeza Energética”* para consideração como preprint em sua plataforma.
+
+Este trabalho apresenta um novo paradigma na física experimental: o **Princípio da Resolução por Energia Mínima**. Diferentemente da abordagem predominante, que utiliza energias colossais para sondar o infinitamente pequeno, este princípio demonstra que a verdadeira resolução é alcançada por meio da energia mínima, da coerência e da sutileza. O manuscrito apresenta uma formulação matemática que relaciona a resolução espacial à energia por probe, à temperatura, ao tempo de coerência e ao número de medições coletivas, ilustrando o conceito tanto por meio de análise teórica quanto de metáforas explicativas.
+
+Os resultados sugerem que reduzir a energia por probe e o ruído térmico, enquanto se aumenta a coerência e o número de medições, oferece um caminho mais eficaz para acessar o nível sub-quântico estrutural. Essa abordagem pode abrir novas direções em experimentos de ultra-baixa energia e temperatura, com implicações para a compreensão da energia escura, da energia exótica e da conexão fundamental entre as escalas macro e micro.
+
+Acredito que este manuscrito será de interesse para pesquisadores em física quântica, física experimental e estudos fundamentais sobre matéria e energia. Ao disponibilizar este trabalho publicamente, espero estimular discussões, replicações e novas explorações deste princípio.
+
+Agradeço pela consideração e aguardo a oportunidade de compartilhar este trabalho com a comunidade científica.
+
+Atenciosamente,  
+Marcelo Vargas

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "From Macro to Micro: Principle of Minimum-Energy Resolution"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Vargas"
+    given-names: "Marcelo"
+year: 2025
+keywords:
+  - experimental physics
+  - minimum energy
+  - spatial resolution
+license: "MIT (code), CC-BY-4.0 (texts and images)"
+abstract: >
+  This work introduces the Principle of Minimum-Energy Resolution, proposing
+  that minimum spatial resolution is optimized by reducing applied energy and
+  thermal noise, while increasing coherence time and number of probes. It
+  outlines a paradigm shift in experimental physics toward subtlety and precision.
