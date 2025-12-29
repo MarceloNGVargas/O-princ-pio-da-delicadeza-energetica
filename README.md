@@ -14,6 +14,12 @@ Este repositório organiza a teoria, artigos e materiais de apoio do princípio 
 - docs/en: artigo completo em inglês
 - examples: script de simulação para reproduzir gráficos
 - images: gráficos gerados e figuras ilustrativas
+ 
+## Conteúdos adicionais
+- Exemplos numéricos: [docs/pt/exemplos_numericos.md](docs/pt/exemplos_numericos.md)
+- Aplicações práticas: [docs/pt/aplicacoes_praticas.md](docs/pt/aplicacoes_praticas.md)
+- Guia de preprints (arXiv/OSF): [docs/pt/guia_preprints.md](docs/pt/guia_preprints.md)
+- Guia de release e DOI (Zenodo): [docs/pt/guia_release_zenodo.md](docs/pt/guia_release_zenodo.md)
 
 ## Como reproduzir
 - Executar o script em examples/simulation.py para gerar gráficos de dependência de \\(\\delta x_{\\min}\\).
@@ -31,6 +37,7 @@ Este repositório organiza a teoria, artigos e materiais de apoio do princípio 
 ## Imagens
 - Gráficos: [dx_vs_t.png](images/dx_vs_t.png), [dx_vs_epsilon.png](images/dx_vs_epsilon.png), [dx_vs_n.png](images/dx_vs_n.png), [dx_vs_tau.png](images/dx_vs_tau.png), [dx_surface_t_epsilon.png](images/dx_surface_t_epsilon.png)
 - Fórmula e metáfora: [formula.png](images/formula.png), [sintese_formula.png](images/sintese_formula.png), [descricao_formula.png](images/descricao_formula.png), [principio_delicadeza_energetica.png](images/principio_delicadeza_energetica.png)
+- Diagrama conceitual: [diagram_macro_micro_resolucao.png](images/diagram_macro_micro_resolucao.png)
 
 ## Licença
 - Código: MIT License (ver LICENSE-MIT)
