@@ -44,6 +44,8 @@ Este repositório organiza a teoria, artigos e materiais de apoio do princípio 
 - Textos e imagens: CC-BY 4.0 (ver LICENSE-CC-BY-4.0)
 - Aviso de royalties e autoria: [IP-ROYALTY-NOTICE.md](IP-ROYALTY-NOTICE.md)
 - Licença Comercial (termos e percentuais): [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md)
+- Changelog: [CHANGELOG.md](CHANGELOG.md)
+- Modelo de acordo comercial: [docs/pt/acordo_licenca_comercial_template.md](docs/pt/acordo_licenca_comercial_template.md)
 
 ## Citação
 - Consulte CITATION.cff para citar este trabalho em gerenciadores de referência.
