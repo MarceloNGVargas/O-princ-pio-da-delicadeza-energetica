@@ -9,7 +9,7 @@
 
 ## Criar o release v1.0 no GitHub
 - Via CLI:
-  - gh release create v1.0 --repo MarceloNGVargas/O-princ-pio-da-delicadeza-energetica --generate-notes --title "v1.0"
+  - gh release create v1.0 --repo MarceloNGVargas/O-principio-da-delicadeza-energetica --generate-notes --title "v1.0"
 - Via interface web:
   - Acesse o repositório → Releases → Draft a new release
   - Tag: v1.0, Target: main
@@ -19,7 +19,7 @@
 ## Conectar com Zenodo e gerar DOI
 - Acesse https://zenodo.org e faça login com GitHub
 - Autorize acesso e vá em Settings → GitHub
-- Habilite o repositório MarceloNGVargas/O-princ-pio-da-delicadeza-energetica
+- Habilite o repositório MarceloNGVargas/O-principio-da-delicadeza-energetica
 - Ative a opção de arquivamento automático em releases
 - Crie ou confirme o release v1.0 no GitHub
 - Aguarde Zenodo arquivar o release e gerar o DOI

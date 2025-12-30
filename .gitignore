@@ -1,0 +1,8 @@
+*.rar
+outputs/*
+!outputs/.gitkeep
+*.tmp
+*.log
+~$*
+Thumbs.db
+Desktop.ini

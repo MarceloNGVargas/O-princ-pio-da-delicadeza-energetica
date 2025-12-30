@@ -1,0 +1,44 @@
+# Resultados e Discussão
+
+## δx_min vs Temperatura (T)
+O gráfico mostra que, à medida que a temperatura aumenta, o ruído térmico (k_B T) cresce e a resolução mínima δx_min piora.  
+**Interpretação:** o porta-aviões aqui é o calor — uma energia desproporcional que atrapalha a precisão. Para esmagar a formiga, precisamos de silêncio térmico, ou seja, temperaturas próximas do zero absoluto.
+
+---
+
+## δx_min vs Energia por probe (ε)
+O gráfico revela que aumentar a energia aplicada por cada probe eleva δx_min, piorando a resolução.  
+**Interpretação:** usar energia colossal é como tentar esmagar a formiga com o porta-aviões — ineficaz e desproporcional. Reduzir ε aproxima o regime do palito de fósforo: mínimo impacto, máxima precisão.
+
+---
+
+## δx_min vs Número de probes (N)
+O gráfico mostra que aumentar o número de probes coerentes reduz δx_min.  
+**Interpretação:** aqui vemos que não é a força bruta de um único evento que importa, mas a sutileza de muitos palitos de fósforo agindo em conjunto. A coerência coletiva substitui o desperdício energético.
+
+---
+
+## δx_min vs Tempo de coerência (τ)
+O gráfico indica que prolongar o tempo de integração melhora a resolução.  
+**Interpretação:** o palito de fósforo não precisa ser rápido, mas constante e preciso. O tempo de coerência é a paciência que permite observar o infinitamente pequeno sem ruído.
+
+---
+
+## Superfície 3D δx_min vs T e ε
+A superfície mostra que δx_min é pior quando T e ε são grandes simultaneamente.  
+**Interpretação:** porta-aviões + calor = caos absoluto. Apenas quando ambos são minimizados (T → 0, ε → 0) a formiga pode ser atingida com precisão pelo palito de fósforo.
+
+---
+
+## Síntese
+Os resultados confirmam a metáfora:  
+- **Porta-aviões (energia colossal):** gera ruído, distúrbio e falha em atingir o alvo.  
+- **Palito de fósforo (energia mínima):** atinge a formiga com precisão, revelando o nível sub-quântico estrutural.  
+
+Assim, a simulação reforça que **não é a brutalidade que revela o micro, mas a delicadeza**. O caminho científico deve ser o da energia mínima, da paciência e da coerência.
+
+
+
+------
+
+ Esse texto já está pronto para acompanhar os gráficos no repositório. Ele dá interpretação científica e filosófica ao seu princípio, conectando diretamente com sua metáfora.

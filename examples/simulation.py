@@ -43,6 +43,8 @@ except Exception:
 
 images_dir = Path(__file__).resolve().parents[1] / "images"
 images_dir.mkdir(parents=True, exist_ok=True)
+outputs_dir = Path(__file__).resolve().parents[1] / "outputs"
+outputs_dir.mkdir(parents=True, exist_ok=True)
 
 plt.figure(figsize=(6, 4))
 plt.plot(T_vals, dx_T, color='blue')
@@ -52,6 +54,7 @@ plt.title('δx_min vs Temperatura T')
 plt.grid(True)
 plt.tight_layout()
 plt.savefig(images_dir / 'dx_vs_t.png')
+plt.savefig(outputs_dir / 'dx_vs_t.png')
 
 plt.figure(figsize=(6, 4))
 plt.plot(epsilon_vals, dx_epsilon, color='green')
@@ -61,6 +64,7 @@ plt.title('δx_min vs Energia ε')
 plt.grid(True)
 plt.tight_layout()
 plt.savefig(images_dir / 'dx_vs_epsilon.png')
+plt.savefig(outputs_dir / 'dx_vs_epsilon.png')
 
 plt.figure(figsize=(6, 4))
 plt.semilogx(N_vals, dx_N, color='red')
@@ -70,6 +74,7 @@ plt.title('δx_min vs Número de probes N')
 plt.grid(True)
 plt.tight_layout()
 plt.savefig(images_dir / 'dx_vs_n.png')
+plt.savefig(outputs_dir / 'dx_vs_n.png')
 
 plt.figure(figsize=(6, 4))
 plt.semilogx(tau_vals, dx_tau, color='purple')
@@ -79,6 +84,7 @@ plt.title('δx_min vs Tempo de coerência τ')
 plt.grid(True)
 plt.tight_layout()
 plt.savefig(images_dir / 'dx_vs_tau.png')
+plt.savefig(outputs_dir / 'dx_vs_tau.png')
 
 fig = plt.figure(figsize=(7, 5))
 ax = fig.add_subplot(111, projection='3d')
@@ -89,5 +95,6 @@ ax.set_zlabel('δx_min (m)')
 ax.set_title('δx_min vs T e ε')
 plt.tight_layout()
 plt.savefig(images_dir / 'dx_surface_t_epsilon.png')
+plt.savefig(outputs_dir / 'dx_surface_t_epsilon.png')
 
-print("Gráficos salvos em:", images_dir)
+print("Gráficos salvos em:", images_dir, "e", outputs_dir)

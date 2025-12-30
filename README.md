@@ -10,29 +10,23 @@ Este repositório organiza a teoria, artigos e materiais de apoio do princípio 
 \\]
 
 ## Estrutura
-- docs/pt: artigo completo, abstract, originalidade, resultados e discussão
-- docs/en: artigo completo em inglês
+- conteudo: resumo claro com fórmula, gráficos e links essenciais
+- docs/pt e docs/en: artigos completos e materiais de referência
 - examples: script de simulação para reproduzir gráficos
 - images: gráficos gerados e figuras ilustrativas
  
-## Conteúdos adicionais
-- Exemplos numéricos: [docs/pt/exemplos_numericos.md](docs/pt/exemplos_numericos.md)
-- Aplicações práticas: [docs/pt/aplicacoes_praticas.md](docs/pt/aplicacoes_praticas.md)
-- Guia de preprints (arXiv/OSF): [docs/pt/guia_preprints.md](docs/pt/guia_preprints.md)
-- Guia de release e DOI (Zenodo): [docs/pt/guia_release_zenodo.md](docs/pt/guia_release_zenodo.md)
+## Visão rápida
+- Conteúdo essencial: [conteudo/README.md](conteudo/README.md)
+- Preprint (PT): [docs/pt/preprint.md](docs/pt/preprint.md)
+- Full paper (EN): [docs/en/preprint.md](docs/en/preprint.md)
 
 ## Como reproduzir
 - Executar o script em examples/simulation.py para gerar gráficos de dependência de \\(\\delta x_{\\min}\\).
 - Os gráficos serão salvos em images/.
 
 ## Documentação
-- Português:
-  - [Abstract](docs/pt/abstract.md)
-  - [Artigo completo](docs/pt/preprint.md)
-  - [Originalidade e Inovação](docs/pt/originalidade_inovacao.md)
-  - [Resultados e Discussão](docs/pt/resultados_discussao.md)
-- English:
-  - [Full paper](docs/en/preprint.md)
+- Português: [docs/pt/](docs/pt/)
+- English: [docs/en/](docs/en/)
 
 ## Imagens
 - Gráficos: [dx_vs_t.png](images/dx_vs_t.png), [dx_vs_epsilon.png](images/dx_vs_epsilon.png), [dx_vs_n.png](images/dx_vs_n.png), [dx_vs_tau.png](images/dx_vs_tau.png), [dx_surface_t_epsilon.png](images/dx_surface_t_epsilon.png)
